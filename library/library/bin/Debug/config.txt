@@ -1,0 +1,5 @@
+server localhost
+user root
+database library
+SslMode none
+charset utf8
